@@ -1,4 +1,4 @@
-package StaticMenthod;
+package ThucHanh;
 
 public class Student {
     private int rollno;

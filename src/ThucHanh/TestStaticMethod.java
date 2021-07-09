@@ -1,4 +1,4 @@
-package StaticMenthod;
+package ThucHanh;
 
 public class TestStaticMethod {
     public static void main(String args[]) {
